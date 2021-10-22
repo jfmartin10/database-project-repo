@@ -1,7 +1,6 @@
 # database-project-repo
 Jose and Landen
-<h1>
-## Team Name </h1>
+## Team Name
 ## Team Members
 ## Outline For Project:
 ## Project Introduction
