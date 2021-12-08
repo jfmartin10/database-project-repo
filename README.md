@@ -15,6 +15,7 @@
 ## Business rule: Ratings: ratings can include an overall rating, driver rating. Ratings are not required.
 
 ## EERD:
+Test
 <br> <img src="images/EERD.png">
 
 ## Max, Min, Avg Rating of Restuarant:
