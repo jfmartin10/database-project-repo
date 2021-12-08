@@ -18,7 +18,7 @@
 <br> <img src="images/EERD.png">
 
 ## Max, Min, Avg Rating of Restuarant:
-
+<br> <img src="images/MaxMinAvgRating.png">
 ## Max, Min, Avg Rating of Delivery Driver:
 
 ## Amount of Deliveries Made by Driver in 2021
