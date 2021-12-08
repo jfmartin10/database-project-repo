@@ -20,7 +20,7 @@
 ## Max, Min, Avg Rating of Restuarant:
 <br> <img src="images/MaxMinAvgRating.png">
 ## Max, Min, Avg Rating of Delivery Driver:
-
+<br> <img src="images/MaxMinAvg ratingDriver.png">
 ## Amount of Deliveries Made by Driver in 2021
 
 ## Amount of Order Made by A Customer in 2021
