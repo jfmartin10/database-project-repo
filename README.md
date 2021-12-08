@@ -16,6 +16,18 @@
 
 ## EERD:
 <br> <img src="images/EERD.png">
-## Data Dictionary
-## SQL Code for Queries, Stored Procedures, Views (screen shots)
+
+## Max, Min, Avg Rating of Restuarant:
+
+## Max, Min, Avg Rating of Delivery Driver:
+
+## Amount of Deliveries Made by Driver in 2021
+
+## Amount of Order Made by A Customer in 2021
+
+## Number of Deliveries by Driver in View
+
+## Stored Procedures
+
+
 ## Future Work
