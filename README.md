@@ -27,10 +27,13 @@
 <br> <img src="images/DriverCount over a year.png">
 
 ## Amount of Order Made by A Customer in 2021:
+<br> <img src="images/CustomerCount over a year.png">
 
 ## Number of Deliveries by Driver in View:
+<br> <img src="images/ViewDriver2.png">
 
 ## Stored Procedures:
+<br> <img src="images/Storedprocedures for courteous ratingMinMax.png">
 
 
-## Future Work
+## Thank You!
