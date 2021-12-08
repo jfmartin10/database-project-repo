@@ -15,25 +15,30 @@
 ## Business rule: Ratings: ratings can include an overall rating, driver rating. Ratings are not required.
 
 ## EERD:
-Test
 <br> <img src="images/EERD.png">
 
 ## Max, Min, Avg Rating of Restuarant:
+retuarant_id 101 = Chic-Fil-A
 <br> <img src="images/MaxMinAvgRating.png">
 
 ## Max, Min, Avg Rating of Delivery Driver:
+For Delivery Driver with driver_id #1
 <br> <img src="images/MaxMinAvg ratingDriver.png">
 
 ## Amount of Deliveries Made by Driver in 2021:
+For Driver with driver_id #2
 <br> <img src="images/DriverCount over a year.png">
 
-## Amount of Order Made by A Customer in 2021:
+## Amount of Orders Made by A Customer in 2021:
+For Customer with person_id #23
 <br> <img src="images/CustomerCount over a year.png">
 
 ## Number of Deliveries by Driver in View:
+For Deliveries Done by driver_id #2
 <br> <img src="images/ViewDriver2.png">
 
 ## Stored Procedures:
+For Finding the Maximum and Minimum Courtesy Rating for Delivery Driver
 <br> <img src="images/Storedprocedures for courteous ratingMinMax.png">
 
 
