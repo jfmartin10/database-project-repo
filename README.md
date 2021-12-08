@@ -12,7 +12,9 @@
 ## Business rule: Vehicles are registered to students and have to be up to date on licence and insurance information.
 ## Business rule: Fees: $5 flat rate fee
 ## Business rule: Student-to-order relationship: A person orders food one to many times.  An individual delivery is tied to one and only one person for the order.  The order is for one and only one restaurant.
-## Business rule: Ratings: ratings can include an overall rating, driver rating. Rating are not required.
+## Business rule: Ratings: ratings can include an overall rating, driver rating. Ratings are not required.
+
+## EERD:
 <br> <img src="images/EERD.png">
 ## Data Dictionary
 ## SQL Code for Queries, Stored Procedures, Views (screen shots)
